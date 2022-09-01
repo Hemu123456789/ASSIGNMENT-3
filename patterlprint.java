@@ -16,9 +16,15 @@ int n =5;
             if( j == 1 || j == 0 || i == n)
                 System.out.print("*");
             else
-                System.out.print("");
+                System.out.print(" ");
         }
         System.out.println();
     }
 }
 }
+
+
+
+
+
+
