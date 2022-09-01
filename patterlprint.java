@@ -16,7 +16,7 @@ int n =5;
             if( j == 1 || j == 0 || i == n)
                 System.out.print("*");
             else
-                System.out.print("This is pattern");
+                System.out.print("");
         }
         System.out.println();
     }
